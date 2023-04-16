@@ -75,7 +75,7 @@ Valid = all samples form January 1, 2012 - April 30, 2012
 Test = all samples from May 1, 2012 - November 2012
 
 ## 8. Evaluation
-Now Let's create a method to calculate the performance of our model based on the scoring method of this competition
+The goal of this step is to create a method to calculate the performance of our model based on the scoring method of this competition
 https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
 
 According to Kaggle for the Bluebook for Bulldozers competition, the evaluation function they use is root mean squared log error (RMSLE).
